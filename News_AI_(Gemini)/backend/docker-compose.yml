@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  news-classifier:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: wisenancial-news-classifier-v4
+    ports:
+      - "8000:8000"
+    environment:
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - GEMINI_MODEL=gemini-flash-lite-latest
+      - CLASSIFIER_CONFIDENCE_THRESHOLD=0.80
+      - CLASSIFIER_CACHE_TTL_SECONDS=86400
+      - PORT=8000
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "python -c \"import urllib.request; urllib.request.urlopen('http://localhost:8000/ai/news/health')\""]
+      interval: 30s
+      timeout: 10s
+      retries: 3

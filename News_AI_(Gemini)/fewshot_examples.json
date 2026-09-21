@@ -1,0 +1,92 @@
+[
+  {
+    "article_id": "sha256:208caf1840009355c7db49efa47b2fd42c37102b3f06b16232ca335478172e0a",
+    "title": "India placed better in economy despite global challenges, says FM Sitharaman",
+    "description": "Finance Minister Nirmala Sitharaman said India is better placed economically despite global challenges, citing tax reforms aimed at reducing litigation and simplifying compliance. Speaking at ITRAF’s Bengaluru conference, she urged industry and tax profession…",
+    "label": {
+      "sentiment": "BULLISH",
+      "importance": "HIGH"
+    },
+    "selection": "highest ai_prelabel confidence for sentiment/importance pair"
+  },
+  {
+    "article_id": "sha256:22be370e9dfbcc17db37a38a7f102b021ca2b09779a5152f18ec8e34d9f489be",
+    "title": "Codan Shares Surge 7.51% to Fresh Record Highs as Defence and Gold Detection Businesses Fire on All Cylinders",
+    "description": "Codan shares climbed 7.5% to $48.94, extending a year-long rally fuelled by record fiscal 2026 results, defence communications demand and renewed growth in Metal Detection.",
+    "label": {
+      "sentiment": "BULLISH",
+      "importance": "MEDIUM"
+    },
+    "selection": "highest ai_prelabel confidence for sentiment/importance pair"
+  },
+  {
+    "article_id": "sha256:c904b0d59190ac570c265f9b3e83f474abe134c09ab6eedba5be1de815f0ce58",
+    "title": "Brazil’s B3 gets DIGY11, a new ETF tracking Bitcoin treasury preferred stock",
+    "description": "The real-hedged Brazilian fund packages Strategy and Strive preferred shares while leaving distributions and unit returns unguaranteed.\nThe post Brazil’s B3 gets DIGY11, a new ETF tracking Bitcoin treasury preferred stock appeared first on CryptoSlate.",
+    "label": {
+      "sentiment": "BULLISH",
+      "importance": "LOW"
+    },
+    "selection": "highest ai_prelabel confidence for sentiment/importance pair"
+  },
+  {
+    "article_id": "sha256:e4356a396bd494b1141be1940bedd611413f14f0ac5c2e9885c4cbcf18b7a23e",
+    "title": "Inflation rises to 3.1% with fears of worse to come from Middle East energy meltdown - as Brits face threat of interest rate hikes and more tax at Budget",
+    "description": "The headline CPI inflation rate was 3.1 per cent in August, up from 2.9 per cent the previous month.",
+    "label": {
+      "sentiment": "BEARISH",
+      "importance": "HIGH"
+    },
+    "selection": "highest ai_prelabel confidence for sentiment/importance pair"
+  },
+  {
+    "article_id": "sha256:530a55c1f5a973dd117aa7febe0a0dfb2ff7a16f91c3bfd5a1b31ba1bc031ec9",
+    "title": "How much of the current market movement is linked to the CLARITY Act vote?",
+    "description": "Crypto markets weakened after the US Senate failed to advance the CLARITY Act, but the selloff came amid a broader risk-off environment. Bitcoin fell around 3-4%, while crypto-linked equities saw sharper declines. The regulatory setback added pressure, but el…",
+    "label": {
+      "sentiment": "BEARISH",
+      "importance": "MEDIUM"
+    },
+    "selection": "highest ai_prelabel confidence for sentiment/importance pair"
+  },
+  {
+    "article_id": "sha256:937512eb6d3bbad9b7aeb99f8e43718148083036008a5ba32e9147d50decc266",
+    "title": "PZZA Investors Have Opportunity to Lead Papa John's International, Inc. Securities Fraud Lawsuit",
+    "description": "NEW YORK, Sept. 16, 2026 /PRNewswire/ -- Why: Rosen Law Firm, a global investor rights law firm, reminds purchasers of common stock of Papa John's International, Inc. (NASDAQ: PZZA) between August 7, 2025 and August 5, 2026, both dates inclusive (the \"Class P…",
+    "label": {
+      "sentiment": "BEARISH",
+      "importance": "LOW"
+    },
+    "selection": "highest ai_prelabel confidence for sentiment/importance pair"
+  },
+  {
+    "article_id": "sha256:071187ee2aed614e46afe360bbc8e94a9ed0a64c98cb4145394c4e7212a28947",
+    "title": "Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine",
+    "description": "An aggressive market expectations trap and a strict aversion to forward guidance have backed the Fed chair into a corner, where failing to deliver a hawkish message risks destroying the central bank’s inflation-fighting credibility.",
+    "label": {
+      "sentiment": "NEUTRAL",
+      "importance": "HIGH"
+    },
+    "selection": "highest ai_prelabel confidence for sentiment/importance pair"
+  },
+  {
+    "article_id": "sha256:b935d89429aa350a57294407e256754b023b983f2b0016934b95a9938b81e95a",
+    "title": "Decline in INR partially offset by positive start to local equities",
+    "description": "The Indian rupee fell 3 paise to 95.91 against the US dollar in early trade on Wednesday, facing pressure from a strong American currency and outflow of foreign funds. Positive domestic equity markets, however, supported the local currency, even as crude oil …",
+    "label": {
+      "sentiment": "NEUTRAL",
+      "importance": "MEDIUM"
+    },
+    "selection": "highest ai_prelabel confidence for sentiment/importance pair"
+  },
+  {
+    "article_id": "sha256:eeb4ce39b3fc5a1c5ac44381931233b5228d70a747ac0f9b3ead7e1e3a923304",
+    "title": "Lane Kiffin backed Trinidad Chambliss' extra year — until the QB stayed at Ole Miss",
+    "description": "Ahead of Lane Kiffin's return to Ole Miss, new book reveals LSU football coach's pursuit of Rebels stars Trinidad Chambliss and Kewan Lacy.",
+    "label": {
+      "sentiment": "NEUTRAL",
+      "importance": "LOW"
+    },
+    "selection": "highest ai_prelabel confidence for sentiment/importance pair"
+  }
+]
