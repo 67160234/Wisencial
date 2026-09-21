@@ -1,0 +1,16 @@
+{
+  "batch_id": "batch_20260917_075112_page1",
+  "created_at": "2026-09-17T07:51:12.764592+00:00",
+  "query": "(stock OR equities)",
+  "page": 1,
+  "requested": 100,
+  "received": 98,
+  "full": 80,
+  "partial": 11,
+  "failed": 4,
+  "blocked": 3,
+  "paywall": 0,
+  "ready_for_label": 80,
+  "source": "NewsAPI",
+  "articles_file": "batch_20260917_075112_page1.jsonl"
+}

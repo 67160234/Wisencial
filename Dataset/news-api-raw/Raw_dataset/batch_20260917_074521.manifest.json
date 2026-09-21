@@ -1,0 +1,15 @@
+{
+  "batch_id": "batch_20260917_074521",
+  "created_at": "2026-09-17T07:45:21.309182+00:00",
+  "query": "(stock OR market OR finance OR economy)",
+  "requested": 100,
+  "received": 99,
+  "full": 81,
+  "partial": 12,
+  "failed": 3,
+  "blocked": 3,
+  "paywall": 0,
+  "ready_for_label": 81,
+  "source": "NewsAPI",
+  "articles_file": "batch_20260917_074521.jsonl"
+}
